@@ -1,6 +1,6 @@
 # FreeCodeCamp-Challenge | Intermediate Front End Development Project
 
-Build a Random Quote Machine 
+# Build a Random Quote Machine 
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/ONjoLe/.
 
